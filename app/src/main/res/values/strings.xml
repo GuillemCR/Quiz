@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Quiz</string>
+    <string name="question">Question</string>
+    <string name="check">Check</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="tryagain">Try Again!</string>
+
+    <string name="question_content">What is the capital of United Kingdom?</string>
+    <array name="answers">
+        <item>Barcelona</item>
+        <item>Thimpu</item>
+        <item>Sidney</item>
+        <item>London</item>
+    </array>
+    <integer name="correct_ans">3</integer>
+
+</resources>

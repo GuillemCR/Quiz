@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="check">Comprova</string>
+    <string name="congratulations">Enhorabona!</string>
+    <string name="question">Pregunta</string>
+    <string name="question_content">Quina és la capital del Regne Unit?</string>
+    <string name="tryagain">Torna a provar!</string>
+</resources>
